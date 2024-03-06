@@ -1,5 +1,5 @@
 
-replicas: 2
+replicas: 10
 
 configmap:
   data:
